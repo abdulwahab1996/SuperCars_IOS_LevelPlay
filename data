@@ -1,6 +1,6 @@
 {
 
-"can_show_ads":true , 
+"can_show_ads":false , 
 "Use_Test_Mode" : false ,
         
 "Test_Ids":
@@ -40,7 +40,7 @@
 
 "Versions":
 [
-"1.4"
+"1.5"
 ]
 
 }
