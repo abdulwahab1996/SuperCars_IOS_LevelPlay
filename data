@@ -1,0 +1,46 @@
+{
+
+"can_show_ads":true , 
+"Use_Test_Mode" : false ,
+        
+"Test_Ids":
+[
+"052a0cc6-905e-4c4c-ac51-c8fa037b1ba7"
+],
+
+
+"Update_App" : false , 
+"Use_App_Open": false , 
+"Use_MRec_Banner": true , 
+"Use_Reward_Pop_Up": false ,
+
+"Main_Banner_Positon": "top" , 
+"MRec_Banner_Position":"bottom_left" ,
+
+
+"App_Open_Id": ["ca-app-pub-3940256099942544/3419835294" ] ,
+
+"Banner_Id": [ "xh5ix7fwbm01mrzi"] ,
+
+"MRec_Banner_Id": [ "vnj6dux9rdkbg8dc" ] ,
+
+"Interstital_Id": [  "g7czlhkx897atmpq"] ,
+
+"Rewarded_Id": [  "exy50g3izf3pff3q" ] ,
+
+"Ads_Request_Times":
+{
+"App_Open_Request_Time" : 7 ,
+"Rewarded_Request_Time" : 7 , 
+"Interstital_Request_Time" : 7 ,
+"MRec_Request_Time" : 7 , 
+"Banner_Request_Time" : 7 , 
+"Banner_ReRequest_Time" : 120
+},
+
+"Versions":
+[
+"1.4"
+]
+
+}
